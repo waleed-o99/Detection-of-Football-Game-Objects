@@ -47,10 +47,10 @@ Open the notebook:
 1. Detection_of_Football_Game_Objects_Using_Deep_Learning.ipynb
 2. Modify the dataset paths as needed.
 3. Run the notebook cells sequentially to:
-  -- Prepare the dataset
-  -- Train the model
-  -- Evaluate performance
-  -- Visualize predictions
+- Prepare the dataset
+- Train the model
+- Evaluate performance
+- Visualize predictions
 
 ---
 
